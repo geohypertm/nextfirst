@@ -5,7 +5,10 @@ export const metadata = {
 const Support = () => {
     return (
         <>
+        <p>
         this is a support page
+        </p>
+        <input type="text" />
         </>
     )
 }
